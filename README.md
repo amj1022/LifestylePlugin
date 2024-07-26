@@ -1,4 +1,4 @@
-# LifestylePlugin
+# Lifestyle Plugin
 
 This plugin is designed to enhance user gameplay by adding to the gameplay lifestyle to make various features more convenient.
 
