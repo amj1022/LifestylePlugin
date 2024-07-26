@@ -1,0 +1,9 @@
+modules:
+  chat:
+    enabled: true
+  firework:
+    enabled: true
+  fly:
+    enabled: true
+  egg:
+    enabled: true

@@ -1,0 +1,13 @@
+name: Lifestyle
+main: com.angela.Lifestyle
+version: 1.0
+api-version: 1.20
+commands:
+  clearchat:
+    description: clears the chat
+  fireworkshow:
+    description: starts a firework show from players location at the time of command
+  flyboots:
+    description: gives player boots that they can fly with
+  eggsplosion:
+    description: give player explosive eggs that explode upon impact of mobs

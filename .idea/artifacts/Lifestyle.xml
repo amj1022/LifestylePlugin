@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lifestyle">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lifestyle</output-path>
+    <root id="archive" name="Lifestyle.jar">
+      <element id="module-output" name="Lifestyle" />
+      <element id="library" level="project" name="spigot-api-1.21-R0.1-SNAPSHOT-shaded" />
+    </root>
+  </artifact>
+</component>
