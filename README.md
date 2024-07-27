@@ -11,7 +11,7 @@ This plugin is designed to enhance user gameplay by adding to the gameplay lifes
 
 ## Introduction
 
-This plugin is still in early development phases. The purpose of this being to add features to enhance gameplay in Minecraft. In its current stage of development the features are limited to wands.
+This plugin is still in early development phases. The purpose of this being to add features to enhance gameplay in Minecraft. In its current stage of development the features are limited.
 
 ## Features
 
